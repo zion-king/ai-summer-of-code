@@ -48,7 +48,7 @@ RAG, Agents, Evals, Web Search, Multimodal, Finetuning, LLM Local, LLMOps, Data 
 - Setting Up LLM Observability
 - LLMOps: Managing the AI Lifecycle
 - Expert Talk >> AI Engineering Best Practices for LLMs
-- 
+- Projects
 ### Week 4: Premises
 - Capstone Starts
 - A Brief History of AI
@@ -60,6 +60,7 @@ RAG, Agents, Evals, Web Search, Multimodal, Finetuning, LLM Local, LLMOps, Data 
 - LLMs from First Principles
 - Causal Language Modelling & the State-of-the-Art
 - What Have We Achieved So Far?
+
 
 
 <p align="left">
