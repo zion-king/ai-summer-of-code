@@ -41,6 +41,8 @@
 - Introduction to Local LLM Inference
 - LLMs and Other Modalities
 - Solving Latency Bottlenecks
+- Expert Talk >> Designing LLM Applications: Insights and Best Practices
+- Expert Talk >> Product Thinking for Generative AI
 - Projects
 ### Week 3: Production
 - Getting Real with LLMs: Introduction to AI Engineering
@@ -49,7 +51,8 @@
 - Getting Set for Taking LLMs to Production: Cloud, configs, GPUs
 - Software Engineering for LLMs
 - Data Engineering for LLMs
-- 
+- LLMOps: Managing the AI Lifecycle
+- Expert Talk >> AI Engineering Best Practices for LLMs
 - 
 ### Week 4: Premises
 - The Math of AI for Those Who Don't Like Math
