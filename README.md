@@ -3,7 +3,7 @@
 4 weeks of hands-on technical training in Large Language Models and Generative AI engineering. Features hands-on tutorials, workshops and expert talks from experienced AI practitioners locally and globally.
 
 <p align="left">
-  <a href="https://forms.gle/VqdbeddLvvebuSNq6"><img src="https://github.com/ai-summer-of-code/aisoc-season-1/blob/main/images/aisoc-signup.png?raw=true" height="50" target="_blank"/></a>
+  <a target="_blank" href="https://forms.gle/VqdbeddLvvebuSNq6"><img src="https://github.com/ai-summer-of-code/aisoc-season-1/blob/main/images/aisoc-signup.png?raw=true" height="50"/></a>
 </p>
 
 ## Training Scope
@@ -63,5 +63,5 @@ RAG, Agents, Evals, Web Search, Multimodal, Finetuning, LLM Local, LLMOps, Data 
 
 
 <p align="left">
-  <a href="https://forms.gle/VqdbeddLvvebuSNq6"><img src="https://github.com/ai-summer-of-code/aisoc-season-1/blob/main/images/aisoc-signup.png?raw=true" height="50" target="_blank"/></a>
+  <a target="_blank" href="https://forms.gle/VqdbeddLvvebuSNq6"><img src="https://github.com/ai-summer-of-code/aisoc-season-1/blob/main/images/aisoc-signup.png?raw=true" height="50"/></a>
 </p>
