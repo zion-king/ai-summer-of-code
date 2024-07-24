@@ -6,7 +6,7 @@
 
 <p align="left">
   <br>
-  <a href="https://forms.gle/VqdbeddLvvebuSNq6" target="_blank" rel="noopener noreferrer"><img src="https://github.com/ai-summer-of-code/aisoc-season-1/blob/main/images/aisoc-signup.png?raw=true" height="50"/></a>
+  <a href="https://forms.gle/VqdbeddLvvebuSNq6" target="_blank" rel="noopener noreferrer"><img src=https://github.com/zion-king/ai-summer-of-code/blob/main/images/aisoc-signup.png"?raw=true" height="50"/></a>
 </p>
 
 ## Training Scope
@@ -71,5 +71,5 @@ RAG, Agents, Evals, Web Search, Multimodal, Finetuning, LLM Local, LLMOps, Data 
 
 <p align="left">
   <br>
-  <a target="_blank" href="https://forms.gle/VqdbeddLvvebuSNq6" rel="noopener noreferrer"><img src="https://github.com/ai-summer-of-code/aisoc-season-1/blob/main/images/aisoc-signup.png?raw=true" height="50"/></a>
+  <a target="_blank" href="https://forms.gle/VqdbeddLvvebuSNq6" rel="noopener noreferrer"><img src="https://github.com/zion-king/ai-summer-of-code/blob/main/images/aisoc-signup.png?raw=true" height="50"/></a>
 </p>
