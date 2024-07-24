@@ -9,7 +9,7 @@
 ## Training Scope
 RAG, Agents, Evals, Web Search, Multimodal, Finetuning, LLM Local, LLMOps, Data Engineering, Foundations
 
-## Instructors/Speakers Lineup
+## Instructor / Speaker Lineup
 - Coming up
 
 ## Curriculum Structure
@@ -22,8 +22,8 @@ RAG, Agents, Evals, Web Search, Multimodal, Finetuning, LLM Local, LLMOps, Data 
 - Introduction to Retrieval Augmented Generation - Build Your First RAG App
 - Build a Simple Frontend for Your LLM App
 - Adding Streaming Functionality to Your LLM App
-- [Expert Talk] LLMS in Competition: Introduction to Benchmarking
-- [Expert Talk] Commercial LLMs or Open LLMs? Selecting the Right LLM for Your Use Case
+- Expert Talk >> LLMS in Competition: Introduction to Benchmarking
+- Expert Talk >> Commercial LLMs or Open LLMs? Selecting the Right LLM for Your Use Case
 - Projects
 ### Week 2: Prototypes
 - Getting Started with Vector Databases
@@ -61,8 +61,7 @@ RAG, Agents, Evals, Web Search, Multimodal, Finetuning, LLM Local, LLMOps, Data 
 - Causal Language Modelling & the State-of-the-Art
 - What Have We Achieved So Far?
 
-
-
 <p align="left">
+  <br>
   <a href="https://forms.gle/VqdbeddLvvebuSNq6" target="_blank" rel="noopener noreferrer"><img src="https://github.com/ai-summer-of-code/aisoc-season-1/blob/main/images/aisoc-signup.png?raw=true" height="50"/></a>
 </p>
