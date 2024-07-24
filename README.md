@@ -43,7 +43,6 @@ RAG, Agents, Evals, Web Search, Multimodal, Finetuning, LLM Local, LLMOps, Data 
 - AI Engineering: Getting Real with LLMs - GPUs, CUDA, HuggingFace, Model Loading
 - Introduction to Local LLM Inference
 - Expert Talk >> LLMs and Other Modalities
-- Expert Talk >> Data Integrity for AI Systems
 - Expert Talk >> Designing LLM Applications: Insights and Best Practices
 - Projects
 ### Week 3: Production
@@ -55,6 +54,7 @@ RAG, Agents, Evals, Web Search, Multimodal, Finetuning, LLM Local, LLMOps, Data 
 - Solving Latency Bottlenecks
 - Setting Up LLM Observability
 - LLMOps: Managing the AI Lifecycle
+- Expert Talk >> Data Integrity for AI Systems
 - Expert Talk >> AI Engineering Best Practices for LLMs
 - Projects
 ### Week 4: Premises
@@ -63,7 +63,7 @@ RAG, Agents, Evals, Web Search, Multimodal, Finetuning, LLM Local, LLMOps, Data 
 - The Math of AI for Those Who Don't Like Math
 - The Math of AI for Those Who Like Math
 - Understanding Neural Networks
-- Understanding Everything Graphs {NN, DB, RAG)
+- Understanding Everything Graphs {NN, DB, RAG}
 - Generative Deep Learning
 - LLMs from First Principles
 - Causal Language Modelling & the State-of-the-Art
@@ -71,5 +71,5 @@ RAG, Agents, Evals, Web Search, Multimodal, Finetuning, LLM Local, LLMOps, Data 
 
 <p align="left">
   <br>
-  <a href="https://forms.gle/VqdbeddLvvebuSNq6" target="_blank" rel="noopener noreferrer"><img src="https://github.com/ai-summer-of-code/aisoc-season-1/blob/main/images/aisoc-signup.png?raw=true" height="50"/></a>
+  <a target="_blank" href="https://forms.gle/VqdbeddLvvebuSNq6" rel="noopener noreferrer"><img src="https://github.com/ai-summer-of-code/aisoc-season-1/blob/main/images/aisoc-signup.png?raw=true" height="50"/></a>
 </p>
