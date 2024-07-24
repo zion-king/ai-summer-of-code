@@ -3,6 +3,7 @@
 4 weeks of hands-on technical training in Large Language Models and Generative AI engineering. Features hands-on tutorials, workshops and expert talks from experienced AI practitioners locally and globally.
 
 <p align="left">
+  <br>
   <a href="https://forms.gle/VqdbeddLvvebuSNq6" target="_blank" rel="noopener noreferrer"><img src="https://github.com/ai-summer-of-code/aisoc-season-1/blob/main/images/aisoc-signup.png?raw=true" height="50"/></a>
 </p>
 
@@ -11,6 +12,11 @@ RAG, Agents, Evals, Web Search, Multimodal, Finetuning, LLM Local, LLMOps, Data 
 
 ## Instructor / Speaker Lineup
 - Coming up
+
+## Delivery Mode
+- Online (Zoom), featuring video lessons, hands-on tutorials, and live sessions.
+- Physical sessions on Saturdays, featuring hands-on workshops, expert talks, and networking.
+- More details coming up
 
 ## Curriculum Structure
 
