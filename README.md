@@ -83,6 +83,7 @@ The following is an initial list of confirmed instructors and speakers. We will 
 The curriculum structure has been designed to be provide learners with the full dose of LLM application development. However, I understand that learners have different needs and preferences and some may want to focus on specific (and not all) areas. The curriculum structure can therefore be broken down into 3 recommended pathways - Applied AI, AI Engineering, and AI Foundations. This pathway design is optional and is by no means absolute. My recommendation is to follow all the modules in the curriculum, especially if you don't have a specific area of focus in mind.
 
 ### All Pathways
+- Setting up everything you need
 - Getting Started with Vector Databases
 - Implementing Conersational Web Search Agents
 - Optimising RAG Applications: Retrieval and Reranking Strategies
@@ -99,7 +100,6 @@ The curriculum structure has been designed to be provide learners with the full 
 - Expert Talk >> Designing LLM Applications: Insights and Best Practices
 - Expert Talk >> Data Integrity for AI Systems
 - Expert Talk >> AI Engineering Best Practices for LLMs
-- What Have We Achieved So Far?
 
 ### Applied AI
 - Getting Started with LLMs
@@ -110,7 +110,7 @@ The curriculum structure has been designed to be provide learners with the full 
 - Adding Streaming Functionality to Your LLM App
 
 ### AI Engineering
-**Prerequisite:** Knowledge of Applied AI content
+**Prerequisite:** Working knowledge of modules in Applied AI pathway
 - AI Engineering: Getting Real with LLMs - OSS Finetuning, Quantization, Inferencing
 - Software Engineering for LLMs
 - Taking LLMs to Production: Cloud platforms, configs, GPUs, Vector DBs
@@ -124,7 +124,7 @@ The curriculum structure has been designed to be provide learners with the full 
 - Generative Deep Learning
 
 ### AI Foundations
-**Prerequisite:** Knowledge of Applied AI content
+**Prerequisite:** Working knowledge of modules in Applied AI pathway
 - Software Engineering for LLMs
 - AI Engineering: Getting Real with LLMs - OSS Finetuning, Quantization, Inferencing
 - The Math of AI for Those Who Like Math
