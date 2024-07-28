@@ -82,7 +82,7 @@ The following is an initial list of confirmed instructors and speakers. We will 
 ## Pathway Options
 The curriculum structure has been designed to be provide learners with the full dose of LLM application development. However, I understand that learners have different needs and preferences and some may want to focus on specific (and not all) areas. The curriculum structure can therefore be broken down into 3 recommended pathways - Applied AI, AI Engineering, and AI Foundations. This pathway design is optional and is by no means absolute. My recommendation is to follow all the modules in the curriculum, especially if you don't have a specific area of focus in mind.
 
-### All Pathways
+### 0. All Pathways
 - Setting up everything you need
 - Getting Started with Vector Databases
 - Implementing Conersational Web Search Agents
@@ -101,7 +101,7 @@ The curriculum structure has been designed to be provide learners with the full 
 - Expert Talk >> Data Integrity for AI Systems
 - Expert Talk >> AI Engineering Best Practices for LLMs
 
-### Applied AI
+### 1. Applied AI
 - Getting Started with LLMs
 - Build Your First Q&A LLM App - Raw and Stupid
 - Buzzwords in LLMs - Hallucination, Prompt Engineering, Finetuning, Evals, Inferencing
@@ -109,7 +109,7 @@ The curriculum structure has been designed to be provide learners with the full 
 - Build a Simple Frontend for Your LLM App
 - Adding Streaming Functionality to Your LLM App
 
-### AI Engineering
+### 2. AI Engineering
 **Prerequisite:** Working knowledge of modules in Applied AI pathway
 - AI Engineering: Getting Real with LLMs - OSS Finetuning, Quantization, Inferencing
 - Software Engineering for LLMs
@@ -123,7 +123,7 @@ The curriculum structure has been designed to be provide learners with the full 
 - Understanding Everything Graphs {NN, DB, RAG}
 - Generative Deep Learning
 
-### AI Foundations
+### 3. AI Foundations
 **Prerequisite:** Working knowledge of modules in Applied AI pathway
 - Software Engineering for LLMs
 - AI Engineering: Getting Real with LLMs - OSS Finetuning, Quantization, Inferencing
