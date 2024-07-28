@@ -13,15 +13,15 @@
 RAG, Agents, Evals, Web Search, Multimodal, Finetuning, LLM Local, LLMOps, Data Engineering, Foundations
 
 ## Instructor / Speaker Lineup
-- Zion Pibowei - Host, Head of Data Science and AI @ Periculum
-- Samuel Ayo - Co-Host, Senior AI Engineer @ Clive AI
-- Li Yin - Creator of AdalFlow, Founder @ SylphAI
-- Harpreet Sahota - AI Engineer, Developer Advocate @ Voxel51
-- Temitayo Adejuyigbe - Machine Learning Engineer, Senior Data Scientist @ Periculum
-- Ridwan Amure - Machine Learning Researcher @ University of Little Rock, Arkansas
-- David Okpare - Software Engineer @ Sienna Analytics
-- Ayodele Oluleye - Head, Data & Insights @ ARM HoldingCo
-- Abdulquadri Oshaore - Senior Data Engineer @ Credit Direct
+- [Zion Pibowei]() - Host, Head of Data Science and AI @ Periculum
+- [Samuel Ayo]() - Co-Host, Senior AI Engineer @ Clive AI
+- [Li Yin]() - Creator of AdalFlow, Founder @ SylphAI
+- [Harpreet Sahota]() - AI Engineer, Developer Advocate @ Voxel51
+- [Temitayo Adejuyigbe]() - Machine Learning Engineer, Senior Data Scientist @ Periculum
+- [Ridwan Amure]() - Machine Learning Researcher @ COSMOS at UALR
+- [David Okpare]() - Software Engineer @ Sienna Analytics
+- [Ayodele Oluleye]() - Data & AI Expert, Author, Head of Data & Insights @ ARM HoldingCo
+- [Abdulquadri Oshaore]() - Senior Data Engineer @ Credit Direct
 
 ## Delivery Mode
 - Online (Zoom), featuring video lessons, hands-on tutorials, and live sessions.
