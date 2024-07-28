@@ -13,15 +13,16 @@
 RAG, Agents, Evals, Web Search, Multimodal, Finetuning, LLM Local, LLMOps, Data Engineering, Foundations
 
 ## Instructor / Speaker Lineup
-- [Zion Pibowei]() - Host, Head of Data Science and AI @ Periculum
-- [Samuel Ayo]() - Co-Host, Senior AI Engineer @ Clive AI
-- [Li Yin]() - Creator of AdalFlow, Founder @ SylphAI
-- [Harpreet Sahota]() - AI Engineer, Developer Advocate @ Voxel51
-- [Temitayo Adejuyigbe]() - Machine Learning Engineer, Senior Data Scientist @ Periculum
-- [Ridwan Amure]() - Machine Learning Researcher @ COSMOS at UALR
-- [David Okpare]() - Software Engineer @ Sienna Analytics
-- [Ayodele Oluleye]() - Data & AI Expert, Author, Head of Data & Insights @ ARM HoldingCo
-- [Abdulquadri Oshaore]() - Senior Data Engineer @ Credit Direct
+The following is an initial list of confirmed instructors and speakers. We will update it as the rest of the faculty confirm their availability.
+- [Zion Pibowei](https://linkedin.com/in/zion-pibowei) - Host, Head of Data Science and AI @ Periculum
+- [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) - Co-Host, Senior AI Engineer @ Clive AI
+- [Li Yin](https://www.linkedin.com/in/li-yin-ai) - Creator of AdalFlow, Founder @ SylphAI
+- [Harpreet Sahota](https://www.linkedin.com/in/harpreetsahota204) - AI Engineer, Developer Advocate @ Voxel51
+- [Temitayo Adejuyigbe](https://www.linkedin.com/in/temitayo-adejuyigbe-943860127) - Machine Learning Engineer, Senior Data Scientist @ Periculum
+- [Ridwan Amure](https://www.linkedin.com/in/ridwan-amure) - Machine Learning Researcher @ COSMOS at UALR
+- [David Okpare](https://www.linkedin.com/in/david-okpare) - Software Engineer @ Sienna Analytics
+- [Ayodele Oluleye](https://www.linkedin.com/in/ayodele-oluleye-6a726b61) - Data & AI Expert, Author, Head of Data & Insights @ ARM HoldingCo
+- [Abdulquadri Oshaore](https://www.linkedin.com/in/abdulquadri-ayodeji) - Senior Data Engineer @ Credit Direct
 
 ## Delivery Mode
 - Online (Zoom), featuring video lessons, hands-on tutorials, and live sessions.
