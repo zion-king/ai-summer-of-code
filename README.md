@@ -78,6 +78,62 @@ The following is an initial list of confirmed instructors and speakers. We will 
 - Causal Language Modelling & the State-of-the-Art
 - What Have We Achieved So Far?
 
+
+## Pathway Options
+The curriculum structure has been designed to be provide learners with the full dose of LLM application development. However, I understand that learners have different needs and preferences and some may want to focus on specific (and not all) areas. The curriculum structure can therefore be broken down into 3 recommended pathways - Applied AI, AI Engineering, and AI Foundations. This pathway design is optional and is by no means absolute. My recommendation is to follow all the modules in the curriculum, especially if you don't have a specific area of focus in mind.
+
+### All Pathways
+- Getting Started with Vector Databases
+- Implementing Conersational Web Search Agents
+- Optimising RAG Applications: Retrieval and Reranking Strategies
+- Evaluation Strategies for RAG Applications
+- Persisting Conversational Context with Memory
+- Turning LLMs into Agentic Systems: Introduction to Tools and Function Calling
+- AI Engineering: Getting Real with LLMs - GPUs, CUDA, HuggingFace, Model Loading
+- Introduction to Local LLM Inference
+- A Brief History of AI
+- The Math of AI for Those Who Don't Like Math
+- Expert Talk >> LLMS in Competition: Introduction to Benchmarking
+- Expert Talk >> Commercial LLMs or Open LLMs? Selecting the Right LLM for Your Use Case
+- Expert Talk >> LLMs and Other Modalities
+- Expert Talk >> Designing LLM Applications: Insights and Best Practices
+- Expert Talk >> Data Integrity for AI Systems
+- Expert Talk >> AI Engineering Best Practices for LLMs
+- What Have We Achieved So Far?
+
+### Applied AI
+- Getting Started with LLMs
+- Build Your First Q&A LLM App - Raw and Stupid
+- Buzzwords in LLMs - Hallucination, Prompt Engineering, Finetuning, Evals, Inferencing
+- Introduction to Retrieval Augmented Generation - Build Your First RAG App
+- Build a Simple Frontend for Your LLM App
+- Adding Streaming Functionality to Your LLM App
+
+### AI Engineering
+**Prerequisite:** Knowledge of Applied AI content
+- AI Engineering: Getting Real with LLMs - OSS Finetuning, Quantization, Inferencing
+- Software Engineering for LLMs
+- Taking LLMs to Production: Cloud platforms, configs, GPUs, Vector DBs
+- Data Engineering for LLMs (Data ingestion, Quality, Observability)
+- Solving Latency Bottlenecks
+- Setting Up LLM Observability
+- LLMOps: Managing the AI Lifecycle
+- The Math of AI for Those Who Like Math
+- Understanding Neural Networks
+- Understanding Everything Graphs {NN, DB, RAG}
+- Generative Deep Learning
+
+### AI Foundations
+**Prerequisite:** Knowledge of Applied AI content
+- Software Engineering for LLMs
+- AI Engineering: Getting Real with LLMs - OSS Finetuning, Quantization, Inferencing
+- The Math of AI for Those Who Like Math
+- Understanding Neural Networks
+- Understanding Everything Graphs {NN, DB, RAG}
+- Generative Deep Learning
+- LLMs from First Principles
+- Causal Language Modelling & the State-of-the-Art
+
 <p align="left">
   <br>
   <a target="_blank" href="https://forms.gle/VqdbeddLvvebuSNq6" rel="noopener noreferrer"><img src="https://github.com/zion-king/ai-summer-of-code/blob/main/images/aisoc-signup.png?raw=true" height="50"/></a>
