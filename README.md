@@ -39,25 +39,28 @@ The following is an initial list of confirmed instructors and speakers. We will 
 - Introduction to Retrieval Augmented Generation - Build Your First RAG App
 - Build a Simple Frontend for Your LLM App
 - Adding Streaming Functionality to Your LLM App
+- Introduction to Pydantic & Data Validation
+- Getting Started with Vector Databases
 - Expert Talk >> LLMS in Competition: Introduction to Benchmarking
 - Expert Talk >> Commercial LLMs or Open LLMs? Selecting the Right LLM for Your Use Case
 - Projects
 ### Week 2: Prototypes
-- Getting Started with Vector Databases
-- Optimising RAG Applications: Retrieval and Reranking Strategies
-- Evaluation Strategies for RAG Applications
 - Persisting Conversational Context with Memory
+- Evaluation Strategies for RAG Applications
+- Optimising RAG Applications: Retrieval and Reranking Strategies
 - Turning LLMs into Agentic Systems: Introduction to Tools and Function Calling
-- Implementing Conersational Web Search Agents
 - AI Engineering: Getting Real with LLMs - GPUs, CUDA, HuggingFace, Model Loading
+- Implementing Conersational Web Search Agents
+- Getting More Out of Embeddings
 - Introduction to Local LLM Inference
+- Running LLMs on Apple Silicon with MLX
 - Expert Talk >> LLMs and Other Modalities
 - Expert Talk >> Designing LLM Applications: Insights and Best Practices
 - Projects
 ### Week 3: Production
 - Setting up everything you need
-- AI Engineering: Getting Real with LLMs - OSS Finetuning, Quantization, Inferencing
 - Software Engineering for LLMs
+- AI Engineering: Getting Real with LLMs - OSS Finetuning, Quantization, Inferencing
 - Taking LLMs to Production: Cloud platforms, configs, GPUs, Vector DBs
 - Data Engineering for LLMs (Data ingestion, Quality, Observability)
 - Solving Latency Bottlenecks
@@ -78,9 +81,8 @@ The following is an initial list of confirmed instructors and speakers. We will 
 - Causal Language Modelling & the State-of-the-Art
 - What Have We Achieved So Far?
 
-
 ## Pathway Options
-The curriculum structure has been designed to be provide learners with the full dose of LLM application development. However, I understand that learners have different needs and preferences and some may want to focus on specific (and not all) areas. The curriculum structure can therefore be broken down into 3 recommended pathways - Applied AI, AI Engineering, and AI Foundations. This pathway design is optional and is by no means absolute. My recommendation is to follow all the modules in the curriculum, especially if you don't have a specific area of focus in mind.
+The curriculum structure has been designed to be provide learners with the full dose of LLM application development. However, I understand that learners have different needs and preferences and some may want to focus on specific (and not all) areas. The curriculum structure can therefore be broken down into 3 recommended pathways - Applied AI, AI Engineering, and AI Foundations. This pathway design is optional and is by no means an absolute recommendation. My default recommendation is to follow all the modules in the curriculum, especially if you don't have a specific area of focus in mind.
 
 ### 0. All Pathways
 - Setting up everything you need
@@ -92,6 +94,7 @@ The curriculum structure has been designed to be provide learners with the full 
 - Turning LLMs into Agentic Systems: Introduction to Tools and Function Calling
 - AI Engineering: Getting Real with LLMs - GPUs, CUDA, HuggingFace, Model Loading
 - Introduction to Local LLM Inference
+- Running LLMs on Apple Silicon with MLX
 - A Brief History of AI
 - The Math of AI for Those Who Don't Like Math
 - Expert Talk >> LLMS in Competition: Introduction to Benchmarking
@@ -111,8 +114,8 @@ The curriculum structure has been designed to be provide learners with the full 
 
 ### 2. AI Engineering
 **Prerequisite:** Working knowledge of modules in Applied AI pathway
-- AI Engineering: Getting Real with LLMs - OSS Finetuning, Quantization, Inferencing
 - Software Engineering for LLMs
+- AI Engineering: Getting Real with LLMs - OSS Finetuning, Quantization, Inferencing
 - Taking LLMs to Production: Cloud platforms, configs, GPUs, Vector DBs
 - Data Engineering for LLMs (Data ingestion, Quality, Observability)
 - Solving Latency Bottlenecks
