@@ -16,7 +16,7 @@ RAG, Agents, Evals, Web Search, Multimodal, Finetuning, LLM Local, LLMOps, Data 
 The following is an initial list of confirmed instructors and speakers. We will update it as the rest of the faculty confirm their availability.
 - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) - Host, Head of Data Science and AI @ Periculum
 - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) - Co-Host, Senior AI Engineer @ Clive AI
-- [Richmond Alake](https://www.linkedin.com/in/li-yin-ai) - Staff Developer Advocate @ MongoDB
+- [Richmond Alake](https://www.linkedin.com/in/richmondalake) - Staff Developer Advocate @ MongoDB
 - [Harpreet Sahota](https://www.linkedin.com/in/harpreetsahota204) - AI Engineer, Developer Advocate @ Voxel51
 - [Ayodele Oluleye](https://www.linkedin.com/in/ayodele-oluleye-6a726b61) - Data & AI Leader, Author, Head of Data & Insights @ ARM HoldingCo
 - [Temitayo Adejuyigbe](https://www.linkedin.com/in/temitayo-adejuyigbe-943860127) - Machine Learning Engineer, Senior Data Scientist @ Periculum
