@@ -12,6 +12,10 @@
 ## Training Scope
 RAG, Agents, Evals, Web Search, Multimodal, Finetuning, LLM Local, LLMOps, Data Engineering, Foundations
 
+## Target Audience
+- Beginners, Data professional, Developers/Engineers at any level looking to learn and master practical applications of LLMs
+- **Prerequisite:** Working knowledge of a programming language such as Python. Knowledge of APIs, cloud, and web frameworks will be a bonus, but not strictly required.
+
 ## Speaker / Instructor Lineup
 Here's a list of confirmed speakers and instructors. We will update it as the rest of the faculty confirm their availability.
 - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) - Host, Head of Data Science and AI @ Periculum
@@ -20,11 +24,11 @@ Here's a list of confirmed speakers and instructors. We will update it as the re
 - [Li Yin](https://www.linkedin.com/in/li-yin-ai) - Creator of AdalFlow, Founder @ SylphAI
 - [Mayo Oshin](https://www.linkedin.com/in/moshin1) - Founder, Siennai Analytics
 - [Harpreet Sahota](https://www.linkedin.com/in/harpreetsahota204) - AI Engineer, Developer Advocate @ Voxel51
-- [Ayodele Oluleye](https://www.linkedin.com/in/ayodele-oluleye-6a726b61) - Data & AI Leader, Author, Head of Data & Insights @ ARM HoldingCo
+- [Ayodele Oluleye](https://www.linkedin.com/in/ayodele-oluleye-6a726b61) - Data & AI Leader, Author, Head of Data & Insights @ ARM HoldCo
 - [Temitayo Adejuyigbe](https://www.linkedin.com/in/temitayo-adejuyigbe-943860127) - Machine Learning Engineer, Senior Data Scientist @ Periculum
 - [Ridwan Amure](https://www.linkedin.com/in/ridwan-amure) - Machine Learning Researcher @ COSMOS at UALR
 - [David Okpare](https://www.linkedin.com/in/david-okpare) - Software Engineer @ Siennai Analytics
-- [Abdulquadri Oshaore](https://www.linkedin.com/in/abdulquadri-ayodeji) - Senior Data Engineer @ Credit Direct
+- [Abdulquadri Oshoare](https://www.linkedin.com/in/abdulquadri-ayodeji) - Senior Data Engineer @ Credit Direct
 
 ## Delivery Mode
 - Online (Zoom), featuring video lessons, hands-on tutorials, and live sessions.
