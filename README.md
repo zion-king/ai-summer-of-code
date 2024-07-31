@@ -29,7 +29,9 @@ Here's a list of confirmed speakers and instructors. We will update it as the re
 ## Delivery Mode
 - Online (Zoom), featuring video lessons, hands-on tutorials, and live sessions.
 - Physical sessions for 4 Saturdays, featuring hands-on workshops, expert talks, and networking.
-- More details coming up
+  -  Location: The Bunker, Yaba, Lagos, Nigeria
+  -  Dates: Saturdays 10, 17, 24, 31 August 2024
+  -  Time: 10 AM - 3 PM
 
 ## Curriculum Structure
 
@@ -43,7 +45,7 @@ Here's a list of confirmed speakers and instructors. We will update it as the re
 - Adding Streaming Functionality to Your LLM App
 - Introduction to Pydantic & Data Validation
 - Getting Started with Vector Databases
-- Expert Talk >> LLMS in Competition: Introduction to Benchmarking
+- Expert Talk >> LLMS in Competition: Understanding Benchmarking
 - Expert Talk >> Commercial LLMs or Open LLMs? Selecting the Right LLM for Your Use Case
 - Projects
 ### Week 2: Prototypes
