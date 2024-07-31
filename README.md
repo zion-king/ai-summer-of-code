@@ -29,9 +29,9 @@ Here's a list of confirmed speakers and instructors. We will update it as the re
 ## Delivery Mode
 - Online (Zoom), featuring video lessons, hands-on tutorials, and live sessions.
 - Physical sessions for 4 Saturdays, featuring hands-on workshops, expert talks, and networking.
-  -  Location: The Bunker, Yaba, Lagos, Nigeria
-  -  Dates: Saturdays 10, 17, 24, 31 August 2024
-  -  Time: 10 AM - 3 PM
+  -  **Location:** The Bunker, Yaba, Lagos, Nigeria
+  -  **Dates:** Saturdays 10, 17, 24, 31 August 2024
+  -  **Time:** 10 AM - 3 PM
 
 ## Curriculum Structure
 
