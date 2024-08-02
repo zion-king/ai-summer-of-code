@@ -29,6 +29,7 @@ Here's a list of confirmed speakers and instructors. We will update it as the re
 - [Ridwan Amure](https://www.linkedin.com/in/ridwan-amure) - Machine Learning Researcher @ COSMOS at UALR
 - [David Okpare](https://www.linkedin.com/in/david-okpare) - Software Engineer @ Siennai Analytics
 - [Abdulquadri Oshoare](https://www.linkedin.com/in/abdulquadri-ayodeji) - Senior Data Engineer @ Credit Direct
+- [Jeffrey Paul](https://twitter.com/Jeffreypaul_) - AI Engineer, Lead Researcher, SabiYarn
 
 ## Delivery Mode
 - Online (Zoom), featuring video lessons, hands-on tutorials, and live sessions.
