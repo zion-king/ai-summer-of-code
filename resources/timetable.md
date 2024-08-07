@@ -3,8 +3,10 @@
 ### Week 1: Preliminaries
 
 - Saturday, Aug 10
+  
   🕥 10:30 - 11:00 AM WAT 
   - Getting Started with LLMs | Live Session (Physical + Online)
+    
   🕚 11:00 - 11:30 AM WAT
   - Setting up everything you need | Live Session (Physical + Online)
   - Build your First Q&A LLM App - Raw and Stupid | 
