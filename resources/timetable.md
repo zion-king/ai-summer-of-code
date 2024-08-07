@@ -44,17 +44,51 @@
 
 - **Sunday, Aug 18**
   
-  🕐 **19:00 - 19:30 WAT:** Commercial LLMs or Open LLMs? Selecting the Right LLM for Your Use Case - `Expert Talk`
+  🕐 **19:00 - 19:30 WAT:** LLMs and Other Modalities `Expert Talk`
   
-  🕖 **19:40 - 21:00 WAT:** Designing LLM Applications: Insights and Best Practices `Expert Talk + Workshop`
+  🕐 **19:30 - 20:00 WAT:** Commercial LLMs or Open LLMs? Selecting the Right LLM for Your Use Case `Expert Talk`
+  
+  🕖 **20:00 - 21:00 WAT:** Designing LLM Applications: Insights and Best Practices `Expert Talk + Workshop`
 
 - **Tuesday - Friday Aug 23**
   
-  🕖 **20:00 - 21:00 WAT:** AI Engineering: Getting Real with LLMs `Lecture + Tutorial`
+  🕖 **20:00 - 21:00 WAT:** AI Engineering: Getting Real with LLMs I `Lecture + Tutorial`
   
-  🕖 **20:00 - 21:00 WAT:** AI Engineering: Getting Real with LLMs `Live Workshop`
+  🕖 **20:00 - 21:00 WAT:** AI Engineering: Getting Real with LLMs I `Live Workshop`
 
   🕖 **20:00 - 21:00 WAT:** Getting More Out of Embeddings `Live Workshop`
 
   🕖 **20:00 - 21:00 WAT:** Introduction to Local LLM Inference `Live Tutorial`
+  
+### Week 3: Aug 24 - 30, 2024
+
+- **Saturday, Aug 24**
+  
+  🕥 **10:00 - 11:00 WAT:** Software Engineering for LLMs `Tutorial (Physical, Recorded)`
+
+  🕚 **11:00 - 12:00 WAT:** AI Engineering: Getting Real with LLMs II `Workshop (Physical, Recorded)`
+
+  🕧 **12:20 - 13:00 WAT:** Data Integrity for AI Systems `Expert Talk (Physical + Online)`
+
+  🕦 **13:00 - 14:00 WAT:** Data Engineering for LLMs (Data ingestion, Quality, Observability) `Workshop (Physical, Recorded)`
+
+- **Sunday, Aug 25**
+  
+  🕐 **18:00 - 19:00 WAT:** Data Engineering for LLMs II `Live Workshop`
+  
+  🕖 **19:00 - 19:40 WAT:** AI Engineering Best Practices for LLMs `Expert Talk`
+  
+  🕖 **20:00 - 21:00 WAT:** AI Engineering: Taking LLMs to Production `Live Workshop`
+
+- **Tuesday - Friday Aug 30**
+  
+  🕖 **20:00 - 21:00 WAT:** AI Engineering: Solving Latency Bottlenecks `Live Workshop`
+  
+  🕖 **20:00 - 21:00 WAT:** AI Engineering: Deploying LLM Applications On-Prem `Live Workshop`
+
+  🕖 **20:00 - 21:00 WAT:** AI Engineering: Introduction to LLM Observability `Live Workshop`
+
+  🕖 **20:00 - 21:00 WAT:** LLMOps: Managing the AI Lifecycle `Workshop`
+
+
 
