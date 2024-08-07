@@ -41,18 +41,18 @@ Here's a list of confirmed speakers and instructors. We will update it as the re
 ## Curriculum Structure
 
 ### Week 1: Preliminaries
-- Getting Started with LLMs
-- Setting up everything you need
-- Build Your First Q&A LLM App - Raw and Stupid
-- Buzzwords in LLMs - Hallucination, Prompt Engineering, Finetuning, Evals, Inferencing
+- `Lecture` Getting Started with LLMs
+- `Tutorial` Setting up everything you need
+- `Tutorial` Build Your First Q&A LLM App - Raw and Stupid
+- `Lecture` Buzzwords in LLMs - Hallucination, Prompt Engineering, Finetuning, Evals, Inferencing
 - Introduction to Retrieval Augmented Generation - Build Your First RAG App
 - Build a Simple Frontend for Your LLM App
 - Adding Streaming Functionality to Your LLM App
 - Introduction to Pydantic & Data Validation
 - Getting Started with Vector Databases
 - LLM Evaluation for RAG Pipelines
-- Expert Talk >> LLMS in Competition: Understanding Benchmarking
-- Expert Talk >> Commercial LLMs or Open LLMs? Selecting the Right LLM for Your Use Case
+- `Expert Talk` LLMS in Competition: Understanding Benchmarking
+- `Expert Talk` Commercial LLMs or Open LLMs? Selecting the Right LLM for Your Use Case
 - Projects
 ### Week 2: Prototypes
 - Persisting Conversational Context with Memory
