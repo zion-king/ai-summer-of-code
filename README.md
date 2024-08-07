@@ -41,55 +41,57 @@ Here's a list of confirmed speakers and instructors. We will update it as the re
 ## Curriculum Structure
 
 ### Week 1: Preliminaries
-- `Lecture` Getting Started with LLMs
+- `Lectures` Getting Started with LLMs
 - `Tutorial` Setting up everything you need
 - `Tutorial` Build Your First Q&A LLM App - Raw and Stupid
-- `Lecture` Buzzwords in LLMs - Hallucination, Prompt Engineering, Finetuning, Evals, Inferencing
-- Introduction to Retrieval Augmented Generation - Build Your First RAG App
-- Build a Simple Frontend for Your LLM App
-- Adding Streaming Functionality to Your LLM App
-- Introduction to Pydantic & Data Validation
-- Getting Started with Vector Databases
-- LLM Evaluation for RAG Pipelines
+- `Lectures` Buzzwords in LLMs - Hallucination, Prompt Engineering, Finetuning, Evals, Inferencing
+- `Workshop` Introduction to Retrieval Augmented Generation - Build Your First RAG App
+- `Workshop` LLM Evaluation for RAG Pipelines
+- `Tutorial` Getting Started with Vector Databases
+- `Workshop` Build a Simple Frontend for Your LLM App
+- `Workshop` Adding Streaming Functionality to Your LLM App
+- `Tutorial` Introduction to Pydantic, Data Validation & Structured Outputs for LLMs
 - `Expert Talk` LLMS in Competition: Understanding Benchmarking
-- `Expert Talk` Commercial LLMs or Open LLMs? Selecting the Right LLM for Your Use Case
-- Projects
+- `Projects`
 ### Week 2: Prototypes
-- Persisting Conversational Context with Memory
-- Evaluation Strategies for RAG Applications
-- Optimising RAG Applications: Retrieval and Reranking Strategies
-- Turning LLMs into Agentic Systems: Introduction to Tools and Function Calling
-- AI Engineering: Getting Real with LLMs - GPUs, CUDA, HuggingFace, Model Loading
-- Implementing Conersational Web Search Agents
-- Getting More Out of Embeddings
-- Introduction to Local LLM Inference
-- Running LLMs on Apple Silicon with MLX
-- Expert Talk >> LLMs and Other Modalities
-- Expert Talk >> Designing LLM Applications: Insights and Best Practices
-- Projects
+- `Tutorial` Persisting Conversational Context with Memory
+- `Workshop` Evaluation Strategies for RAG Applications
+- `Workshop` Optimising RAG Applications: Retrieval and Reranking Strategies
+- `Workshop` Turning LLMs into Agentic Systems: Introduction to Tools and Function Calling
+- `Tutorial` AI Engineering: Getting Real with LLMs - GPUs, CUDA, HuggingFace, Model Loading
+- `Workshop` Implementing Conersational Web Search Agents
+- `Workshop` Getting More Out of Embeddings
+- `Tutorial` Introduction to Local LLM Inference
+- `Workshop` Running LLMs on Apple Silicon with MLX
+- `Expert Talk` LLMs and Other Modalities
+- `Expert Talk` Designing LLM Applications: Insights and Best Practices
+- `Expert Talk` Commercial LLMs or Open LLMs? Selecting the Right LLM for Your Use Case
+- `Projects`
 ### Week 3: Production
-- Setting up everything you need
-- Software Engineering for LLMs
-- AI Engineering: Getting Real with LLMs - OSS Finetuning, Quantization, Inferencing
-- Taking LLMs to Production: Cloud platforms, configs, GPUs, Vector DBs
-- Data Engineering for LLMs (Data ingestion, Quality, Observability)
-- Solving Latency Bottlenecks
-- Setting Up LLM Observability
-- LLMOps: Managing the AI Lifecycle
-- Expert Talk >> Data Integrity for AI Systems
-- Expert Talk >> AI Engineering Best Practices for LLMs
-- Projects
+- `Tutorial`Setting up everything you need
+- `Tutorial`Software Engineering for LLMs
+- `Workshop` AI Engineering: Getting Real with LLMs - OSS Finetuning, Quantization, Inferencing
+- `Workshop` Data Engineering for LLMs (Data ingestion, Quality, Observability)
+- `Workshop` AI Engineering: Taking LLMs to Production
+- `Workshop` AI Engineering: Solving Latency Bottlenecks
+- `Workshop` AI Engineering: Deploying LLM Applications On-Prem 
+- `Workshop` AI Engineering: Introduction to LLM Observability
+- `Workshop` LLMOps: Managing the AI Lifecycle
+- `Expert Talk` Data Integrity for AI Systems
+- `Expert Talk` AI Engineering Best Practices for LLMs
+- `Projects`
 ### Week 4: Premises
-- Capstone Starts
-- A Brief History of AI
-- The Math of AI for Those Who Don't Like Math
-- The Math of AI for Those Who Like Math
-- Understanding Neural Networks
-- Understanding Everything Graphs {NN, DB, RAG}
-- Generative Deep Learning
-- LLMs from First Principles
-- Causal Language Modelling & the State-of-the-Art
-- What Have We Achieved So Far?
+- `Projects` Capstone Starts
+- `Lectures` A Brief History of AI
+- `Lectures` The Math of AI for Those Who Don't Like Math
+- `Lectures` The Math of AI for Those Who Like Math
+- `Lectures (Hands-On)` Understanding Neural Networks
+- `Lectures (Hands-On)` Understanding Everything Graphs {NN, DB, RAG}
+- `Lectures (Hands-On)` Generative Deep Learning
+- `Lectures (Hands-On)` LLMs from First Principles
+- `Lectures (Hands-On)` Causal Language Modelling & the State-of-the-Art
+- `Expert Talk` Practical Insights on Building Foundation Models
+- `Reflections` What Have We Achieved So Far?
 
 ## Pathway Options
 The curriculum structure has been designed to be provide learners with the full dose of LLM application development. However, I understand that learners have different needs and preferences and some may want to focus on specific (and not all) areas. The curriculum structure can therefore be broken down into 3 recommended pathways - Applied AI, AI Engineering, and AI Foundations. This pathway design is optional and is by no means an absolute recommendation. My default recommendation is to follow all the modules in the curriculum, especially if you don't have a specific area of focus in mind.
