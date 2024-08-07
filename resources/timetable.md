@@ -6,19 +6,19 @@
   
   🕥 **10:00 - 11:00 WAT:** Getting Started with LLMs `Live Lecture (Physical + Online)`
 
-  🕚 **11:00 - 11:30 WAT:** Setting up everything you need `Tutorial (Physical, Recorded)`
+  🕚 **11:00 - 11:30 WAT:** Setting up everything you need `Live Tutorial (Physical + Online)`
 
-  🕦 **11:30 - 12:00 WAT:** Build your First Q&A LLM App - Raw and Stupid `Tutorial (Physical, Recorded)`
+  🕦 **11:30 - 12:00 WAT:** Build your First Q&A LLM App - Raw and Stupid `Live Tutorial (Physical + Online)`
 
   🕧 **12:30 - 13:00 WAT:** Buzzwords in LLMs `Live Lecture (Physical + Online)`
 
-  🕐 **13:00 - 14:00 WAT:** Introduction to Retrieval Augmented Generation Build Your First RAG App - `Workshop (Physical, Recorded)`
+  🕐 **13:00 - 14:00 WAT:** Introduction to Retrieval Augmented Generation - Build Your First RAG App `Workshop (Physical, Recorded)`
     
 - **Sunday, Aug 11**
   
-  🕖 **19:00 - 20:00 WAT:** LLMs in Competition: Understanding Benchmarking `Expert Talk`
+  🕖 **19:00 - 19:30 WAT:** LLMs in Competition: Understanding Benchmarking `Expert Talk`
   
-  🕖 **19:00 - 20:00 WAT:** LLM Evaluation for RAG Pipelines `Live Workshop`
+  🕖 **19:45 - 21:00 WAT:** LLM Evaluation for RAG Pipelines `Live Workshop`
 
 - **Tuesday - Friday Aug 16**
   
@@ -38,7 +38,7 @@
 
   🕚 **10:30 - 11:30 WAT:** Optimising RAG Applications: Retrieval and Reranking Strategies `Workshop (Physical, Recorded)`
 
-  🕧 **12:00 - 13:00 WAT:** Implementing Conersational Web Search Systems `Workshop (Physical + Online)`
+  🕧 **12:00 - 13:00 WAT:** Implementing Conersational Web Search Systems `Workshop (Physical, Recorded)`
 
   🕦 **13:00 - 14:00 WAT:** Turning LLMs into Agentic Systems: Introduction to Tools and Function Calling `Workshop (Physical, Recorded)`
 
