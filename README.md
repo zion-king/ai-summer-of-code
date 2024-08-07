@@ -50,13 +50,13 @@ Here's a list of confirmed speakers and instructors. We will update it as the re
 - Adding Streaming Functionality to Your LLM App
 - Introduction to Pydantic & Data Validation
 - Getting Started with Vector Databases
+- LLM Evaluation for RAG Pipelines
 - Expert Talk >> LLMS in Competition: Understanding Benchmarking
 - Expert Talk >> Commercial LLMs or Open LLMs? Selecting the Right LLM for Your Use Case
 - Projects
 ### Week 2: Prototypes
 - Persisting Conversational Context with Memory
 - Evaluation Strategies for RAG Applications
-- LLM Evaluation for RAG Pipelines
 - Optimising RAG Applications: Retrieval and Reranking Strategies
 - Turning LLMs into Agentic Systems: Introduction to Tools and Function Calling
 - AI Engineering: Getting Real with LLMs - GPUs, CUDA, HuggingFace, Model Loading
