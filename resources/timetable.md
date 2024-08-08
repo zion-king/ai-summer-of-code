@@ -10,11 +10,11 @@
 
   🕚 **11:00 - 11:30 WAT:** Setting up everything you need - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Live Tutorial (Physical + Online)`
 
-  🕦 **11:30 - 12:00 WAT:** Build your First Q&A LLM App - Raw and Stupid `Live Tutorial (Physical + Online)`
+  🕦 **11:30 - 12:00 WAT:** Build your First Q&A LLM App - Raw and Stupid `Live Tutorial (Physical + Online)` - [Zion Pibowei](https://linkedin.com/in/zion-pibowei)
 
-  🕧 **12:30 - 13:00 WAT:** Buzzwords in LLMs `Live Lecture (Physical + Online)`
+  🕧 **12:30 - 13:00 WAT:** Buzzwords in LLMs `Live Lecture (Physical + Online)` - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo)
 
-  🕐 **13:00 - 14:00 WAT:** Introduction to Retrieval Augmented Generation - Build Your First RAG App `Workshop (Physical, Recorded)`
+  🕐 **13:00 - 14:00 WAT:** Introduction to Retrieval Augmented Generation - Build Your First RAG App `Workshop (Physical, Recorded)` - [Zion Pibowei](https://linkedin.com/in/zion-pibowei)
     
 - **Sunday, Aug 11**
   
