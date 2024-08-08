@@ -4,7 +4,9 @@
 
 - **Saturday, Aug 10**
   
-  🕥 **10:00 - 11:00 WAT:** Getting Started with LLMs `Live Lecture (Physical + Online)`
+  🕙 **10:00 - 10:30 WAT:** Opening Session `Live (Physical + Online)`
+  
+  🕥 **10:30 - 11:00 WAT:** Getting Started with LLMs `Live Lecture (Physical + Online)`
 
   🕚 **11:00 - 11:30 WAT:** Setting up everything you need `Live Tutorial (Physical + Online)`
 
