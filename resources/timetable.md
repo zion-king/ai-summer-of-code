@@ -93,7 +93,7 @@
 
 - **Saturday, Aug 31**
   
-  🕙 **10:00 - 10:30 WAT:** Capstone Project Breakdown - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Live (Physical + Online)`
+  🕙 **10:00 - 10:30 WAT:** Capstone Project Breakdown - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Live (Physical + Online)`
 
   🕥 **10:30 - 11:30 WAT:** A Brief History of AI - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Lecture (Physical + Online)`
 
