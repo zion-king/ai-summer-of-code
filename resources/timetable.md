@@ -92,7 +92,7 @@
 
   🕖 **20:00 - 21:00 WAT:** LLMOps: Managing the AI Lifecycle `Workshop`
   
-### Week 4: Aug 31 >>
+### Week 4: Aug 31 `>>`
 
 - **Saturday, Aug 24**
   
