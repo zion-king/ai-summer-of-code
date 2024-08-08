@@ -91,6 +91,27 @@
   🕖 **20:00 - 21:00 WAT:** AI Engineering: Introduction to LLM Observability `Live Workshop`
 
   🕖 **20:00 - 21:00 WAT:** LLMOps: Managing the AI Lifecycle `Workshop`
+  
+### Week 4: Aug 31 >>
+
+- **Saturday, Aug 24**
+  
+  🕥 **10:00 - 10:30 WAT:** Capstone Project Breakdown `Live (Physical + Online)`
+
+  🕚 **10:30 - 11:30 WAT:** A Brief History of AI `Lecture (Physical + Online)
+
+  🕧 **12:00 - 13:00 WAT:** Practical Insights on Building Foundation Models `Expert Talk (Physical + Online)`
+
+  🕦 **13:00 - 14:00 WAT:** What Have We Achieved So Far? `Live (Physical + Online)`
+
+- **Other Sessions (schedule not finalised)**
+  - Understanding Neural Networks
+  - Understanding Everything Graphs
+  - Generative Deep Learning
+  - LLMs from First Principles
+  - Causal Language Modelling & the State-of-the-Art
+
+
 
 
 
