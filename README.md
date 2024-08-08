@@ -10,7 +10,7 @@
 </p>
 
 ## Training Scope
-RAG, Agents, Evals, Web Search, Multimodal, Finetuning, LLM Local, LLMOps, Data Engineering, Foundations
+RAG, Agents, Evals, Web Search, Multimodal, Finetuning, AI Engineering, LLM Local, LLMOps, Data Engineering, Foundations
 
 ## Target Audience
 - Beginners, Data professional, Developers/Engineers at any level looking to learn and master practical applications of LLMs
