@@ -4,11 +4,11 @@
 
 - **Saturday, Aug 10**
   
-  🕙 **10:00 - 10:30 WAT:** Opening Session `Live (Physical + Online)`
+  🕙 **10:00 - 10:30 WAT:** Opening Session - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Live (Physical + Online)`
   
-  🕥 **10:30 - 11:00 WAT:** Getting Started with LLMs `Live Lecture (Physical + Online)`
+  🕥 **10:30 - 11:00 WAT:** Getting Started with LLMs - [Zion Pibowei](https://linkedin.com/in/zion-pibowei)  `Live Lecture (Physical + Online)`
 
-  🕚 **11:00 - 11:30 WAT:** Setting up everything you need `Live Tutorial (Physical + Online)`
+  🕚 **11:00 - 11:30 WAT:** Setting up everything you need - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Live Tutorial (Physical + Online)`
 
   🕦 **11:30 - 12:00 WAT:** Build your First Q&A LLM App - Raw and Stupid `Live Tutorial (Physical + Online)`
 
@@ -98,7 +98,7 @@
   
   🕥 **10:00 - 10:30 WAT:** Capstone Project Breakdown `Live (Physical + Online)`
 
-  🕚 **10:30 - 11:30 WAT:** A Brief History of AI `Lecture (Physical + Online)
+  🕚 **10:30 - 11:30 WAT:** A Brief History of AI `Lecture (Physical + Online)`
 
   🕧 **12:00 - 13:00 WAT:** Practical Insights on Building Foundation Models `Expert Talk (Physical + Online)`
 
