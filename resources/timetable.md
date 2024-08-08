@@ -102,6 +102,8 @@
   🕐 **13:00 - 14:00 WAT:** What Have We Achieved So Far? - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Live (Physical + Online)`
 
 - **Other Sessions (schedule not finalised)**
+  - The Math of AI for Those Who Don't Like Math - [Ridwan Amure](https://www.linkedin.com/in/ridwan-amure)
+  - The Math of AI for Those Who Like Math - [Ridwan Amure](https://www.linkedin.com/in/ridwan-amure)
   - Understanding Neural Networks
   - Understanding Everything Graphs
   - Generative Deep Learning
