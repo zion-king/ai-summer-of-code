@@ -94,7 +94,7 @@
   
 ### Week 4: Aug 31 `>>`
 
-- **Saturday, Aug 24**
+- **Saturday, Aug 31**
   
   🕥 **10:00 - 10:30 WAT:** Capstone Project Breakdown `Live (Physical + Online)`
 
