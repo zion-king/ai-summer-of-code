@@ -97,7 +97,7 @@
 
   🕥 **10:30 - 11:30 WAT:** A Brief History of AI - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Lecture (Physical + Online)`
 
-  🕛 **12:00 - 13:00 WAT:** Practical Insights on Building Foundation Models - [Jeffrey Paul](https://twitter.com/Jeffreypaul_) `Expert Talk (Physical + Online)`
+  🕛 **12:00 - 13:00 WAT:** Practical Insights on Building Foundation Models - [Jeffrey Otoibhi](https://twitter.com/Jeffreypaul_) `Expert Talk (Physical + Online)`
 
   🕐 **13:00 - 14:00 WAT:** What Have We Achieved So Far? - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Live (Physical + Online)`
 
