@@ -29,7 +29,7 @@ def generate(model, query, temperature=0):
             {"role": "system", "content": sys_prompt},
             {"role": "user", "content": query},
         ],
-        response_format = {"type": "text"},
+        # response_format = {"type": "text"},
         temperature = temperature
     )
 
