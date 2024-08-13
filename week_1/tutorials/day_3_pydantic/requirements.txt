@@ -1,0 +1,7 @@
+pydantic
+google-cloud
+google-cloud-storage
+google-cloud-aiplatform 
+anthropic[vertex]
+openai
+beautifulsoup4==4.12.2
