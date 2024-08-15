@@ -31,7 +31,7 @@ async def chat_batch(request: Request):
         print(traceback.format_exc())
         return {
             "error": str(e),
-            "status_code": 200
+            "status_code": 400
         }
 
 
