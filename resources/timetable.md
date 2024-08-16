@@ -36,7 +36,7 @@
 
 - **Saturday, Aug 17**
   
-  🕙 **10:00 - 10:30 WAT:** Persisting Conversational Context with Memory - [Temitayo Adejuyigbe](https://www.linkedin.com/in/temitayo-adejuyigbe-943860127) `Tutorial (Physical, Recorded)`
+  🕙 **10:00 - 10:30 WAT:** Persisting Conversational Context with Memory - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Tutorial (Physical, Recorded)`
 
   🕥 **10:30 - 11:30 WAT:** Optimising RAG Applications: Retrieval and Reranking Strategies `Workshop (Physical, Recorded)`
 
@@ -81,7 +81,7 @@
 
 - **Tuesday - Friday Aug 30**  (respectively)
   
-  🕗 **20:00 - 21:00 WAT:** Data Engineering for LLMs - [Abdulquadri Oshoare](https://www.linkedin.com/in/abdulquadri-ayodeji) `Workshop (Physical, Recorded)`
+  🕗 **20:00 - 21:00 WAT:** Data Engineering for LLMs - [Abdulquadri Oshoare](https://www.linkedin.com/in/abdulquadri-ayodeji) `Live Workshop`
 
   🕗 **20:00 - 21:00 WAT:** AI Engineering: Deploying LLM Applications On-Prem - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Live Workshop`
 
