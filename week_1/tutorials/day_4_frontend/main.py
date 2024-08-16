@@ -1,7 +1,7 @@
 # Create first streamlit app
 
 import streamlit as st
-from model import *
+from model import ChatBot
 import requests
 
 chat_bot = ChatBot()
