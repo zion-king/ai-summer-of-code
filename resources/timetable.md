@@ -81,7 +81,7 @@
 
 - **Tuesday - Friday Aug 30**  (respectively)
   
-  🕗 **20:00 - 21:00 WAT:** Data Engineering for LLMs - [Abdulquadri Oshoare](https://www.linkedin.com/in/abdulquadri-ayodeji) `Workshop (Physical, Recorded)`
+  🕗 **20:00 - 21:00 WAT:** Data Engineering for LLMs - [Abdulquadri Oshoare](https://www.linkedin.com/in/abdulquadri-ayodeji) `Live Workshop`
 
   🕗 **20:00 - 21:00 WAT:** AI Engineering: Deploying LLM Applications On-Prem - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Live Workshop`
 
