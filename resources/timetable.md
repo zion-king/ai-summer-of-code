@@ -36,7 +36,7 @@
 
 - **Saturday, Aug 17**
   
-  🕙 **10:00 - 10:30 WAT:** Persisting Conversational Context with Memory - [Temitayo Adejuyigbe](https://www.linkedin.com/in/temitayo-adejuyigbe-943860127) `Tutorial (Physical, Recorded)`
+  🕙 **10:00 - 10:30 WAT:** Persisting Conversational Context with Memory - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Tutorial (Physical, Recorded)`
 
   🕥 **10:30 - 11:30 WAT:** Optimising RAG Applications: Retrieval and Reranking Strategies `Workshop (Physical, Recorded)`
 
