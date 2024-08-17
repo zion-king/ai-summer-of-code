@@ -36,13 +36,13 @@
 
 - **Saturday, Aug 17**
   
-  🕙 **10:00 - 10:30 WAT:** Persisting Conversational Context with Memory - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Tutorial (Physical, Recorded)`
+  🕙 **10:00 - 11:00 WAT:** Building Robust RAG Pipelines - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Workshop (Physical, Recorded)`
 
-  🕥 **10:30 - 11:30 WAT:** Optimising RAG Applications: Retrieval and Reranking Strategies `Workshop (Physical, Recorded)`
+  🕚 **11:00 - 12:00 WAT:** Persisting Conversational Context with Memory - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Workshop (Physical, Recorded)`
 
-  🕛 **12:00 - 13:00 WAT:** Implementing Conersational Web Search Systems - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Workshop (Physical, Recorded)`
+  🕧 **12:30 - 13:30 WAT:** Implementing Conersational Web Search Systems - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Workshop (Physical, Recorded)`
 
-  🕐 **13:00 - 14:00 WAT:** Turning LLMs into Agentic Systems - [David Okpare](https://www.linkedin.com/in/david-okpare) `Workshop (Physical, Recorded)`
+  🕜 **13:30 - 14:30 WAT:** Turning LLMs into Agentic Systems - [David Okpare](https://www.linkedin.com/in/david-okpare) `Workshop (Physical, Recorded)`
 
 - **Sunday, Aug 18**
   
