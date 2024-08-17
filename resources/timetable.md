@@ -12,13 +12,11 @@
 
   🕦 **11:30 - 12:00 WAT:** Build your First Q&A LLM App - Raw and Stupid - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Live Tutorial (Physical + Online)`
 
-  🕧 **12:30 - 13:00 WAT:** Buzzwords in LLMs - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Live Lecture (Physical + Online)`
-
   🕐 **13:00 - 14:00 WAT:** Practical Introduction to Retrieval Augmented Generation - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Workshop (Physical, Recorded)`
     
 - **Sunday, Aug 11**
   
-  🕕 **18:00 - 19:00 WAT:** LLMs in Competition: Understanding Benchmarking - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Expert Talk`
+  🕕 **18:00 - 19:00 WAT:** Buzzwords in LLMs - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Expert Talk`
   
   🕖 **19:00 - 20:00 WAT:** LLM Evaluation for RAG Pipelines - [Richmond Alake](https://www.linkedin.com/in/richmondalake) `Live Workshop`
 
@@ -36,19 +34,21 @@
 
 - **Saturday, Aug 17**
   
-  🕙 **10:00 - 10:30 WAT:** Persisting Conversational Context with Memory - [Temitayo Adejuyigbe](https://www.linkedin.com/in/temitayo-adejuyigbe-943860127) `Tutorial (Physical, Recorded)`
+  🕙 **10:00 - 11:00 WAT:** Building Robust RAG Pipelines - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Workshop (Physical, Recorded)`
 
-  🕥 **10:30 - 11:30 WAT:** Optimising RAG Applications: Retrieval and Reranking Strategies `Workshop (Physical, Recorded)`
+  🕚 **11:00 - 12:00 WAT:** Persisting Conversational Context with Memory - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Workshop (Physical, Recorded)`
 
-  🕛 **12:00 - 13:00 WAT:** Implementing Conersational Web Search Systems - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Workshop (Physical, Recorded)`
+  🕧 **12:30 - 13:00 WAT:** LLMs in Competition: Understanding Benchmarking - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Live (Physical + Online)`
 
-  🕐 **13:00 - 14:00 WAT:** Turning LLMs into Agentic Systems - [David Okpare](https://www.linkedin.com/in/david-okpare) `Workshop (Physical, Recorded)`
+  🕜 **13:00 - 14:00 WAT:** Turning LLMs into Agentic Systems - [David Okpare](https://www.linkedin.com/in/david-okpare) `Live Workshop (Physical + Online)`
 
 - **Sunday, Aug 18**
   
-  🕖 **19:00 - 19:45 WAT:** LLMs and Other Modalities - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Expert Talk`
+  🕖 **18:00 - 18:30 WAT:** LLMs and Other Modalities - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Expert Talk`
+
+  🕖 **18:30 - 19:30 WAT:** Implementing Conersational Web Search Systems - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Expert Talk`
   
-  🕗 **19:45 - 20:30 WAT:** Commercial LLMs or Open LLMs? Selecting the Right LLM for Your Use Case - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Expert Talk`
+  🕗 **19:30 - 20:00 WAT:** Commercial LLMs or Open LLMs? Selecting the Right LLM for Your Use Case - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Expert Talk`
 
 - **Tuesday - Friday Aug 23 (respectively)**
   
@@ -81,7 +81,7 @@
 
 - **Tuesday - Friday Aug 30**  (respectively)
   
-  🕗 **20:00 - 21:00 WAT:** Data Engineering for LLMs - [Abdulquadri Oshoare](https://www.linkedin.com/in/abdulquadri-ayodeji) `Workshop (Physical, Recorded)`
+  🕗 **20:00 - 21:00 WAT:** Data Engineering for LLMs - [Abdulquadri Oshoare](https://www.linkedin.com/in/abdulquadri-ayodeji) `Live Workshop`
 
   🕗 **20:00 - 21:00 WAT:** AI Engineering: Deploying LLM Applications On-Prem - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Live Workshop`
 
@@ -97,7 +97,7 @@
 
   🕥 **10:30 - 11:30 WAT:** A Brief History of AI - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Lecture (Physical + Online)`
 
-  🕛 **12:00 - 13:00 WAT:** Practical Insights on Building Foundation Models - [Jeffrey Paul](https://twitter.com/Jeffreypaul_) `Expert Talk (Physical + Online)`
+  🕛 **12:00 - 13:00 WAT:** Practical Insights on Building Foundation Models - [Jeffrey Otoibhi](https://twitter.com/Jeffreypaul_) `Expert Talk (Physical + Online)`
 
   🕐 **13:00 - 14:00 WAT:** What Have We Achieved So Far? - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Live (Physical + Online)`
 
