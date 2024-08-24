@@ -1,1 +1,3 @@
 *.pptx
+credentials.py
+*.log
