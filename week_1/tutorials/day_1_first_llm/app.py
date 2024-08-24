@@ -1,5 +1,6 @@
 from fastapi import FastAPI, Request
 from fastapi.responses import JSONResponse
+import traceback
 from simple import *
 
 app = FastAPI()
@@ -30,16 +31,24 @@ async def generate_chat(request: Request):
             "error": "You did not pass a correct model code!"
         }
 
-    response = generate(
-        model, 
-        query["question"], 
-        temperature=temperature
-    )
+    try:
+        response = generate(
+            model, 
+            query["question"], 
+            temperature=temperature
+        )
 
-    return {
-        "status": "success",
-        "response": response
-    }
+        return {
+            "status": "success",
+            "response": response
+        }
+    
+    except Exception as e:
+        print(traceback.format_exc())
+        return {
+            "error": str(e),
+            "status_code": 400
+        }
 
 
 if __name__ == "__main__":
