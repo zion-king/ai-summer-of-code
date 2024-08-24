@@ -6,7 +6,7 @@
 
 <p align="left">
   <br>
-  <a href="https://forms.gle/VqdbeddLvvebuSNq6" target="_blank" rel="noopener noreferrer"><img src="https://github.com/zion-king/ai-summer-of-code/blob/main/images/aisoc-signup.png?raw=true" height="50"/></a>
+  <a href="https://forms.gle/VqdbeddLvvebuSNq6" target="_blank" rel="noopener noreferrer"><img src="https://github.com/zion-king/ai-summer-of-code/blob/main/assets/aisoc-signup.png?raw=true" height="50"/></a>
 </p>
 
 ## Training Scope
@@ -151,5 +151,5 @@ The curriculum structure has been designed to be provide learners with the full 
 
 <p align="left">
   <br>
-  <a target="_blank" href="https://forms.gle/VqdbeddLvvebuSNq6" rel="noopener noreferrer"><img src="https://github.com/zion-king/ai-summer-of-code/blob/main/images/aisoc-signup.png?raw=true" height="50"/></a>
+  <a target="_blank" href="https://forms.gle/VqdbeddLvvebuSNq6" rel="noopener noreferrer"><img src="https://github.com/zion-king/ai-summer-of-code/blob/main/assets/aisoc-signup.png?raw=true" height="50"/></a>
 </p>
