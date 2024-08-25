@@ -73,7 +73,7 @@ Deploy your streamlit application to Streamlit cloud to expose your application 
 - Streamlit or Frontend App
 
 ### Submission Deadline
-There's no strict submission deadline. However, if you submit before **August 31st**, we will be able to review early and give you feedback. Remember, there's going to be a second project which will be the Capstone.
+The submission deadline is **August 31st**. If you submit later than this date, we may not be able to review early and provide feedback. Remember, there's still going to be a second project which is the Capstone.
 
 When you are ready, [submit your project here](https://github.com/zion-king/ai-summer-of-code/issues/new?assignees=&labels=&projects=&template=project.yml&title=Project%3A+%3Cshort+description%3E)
 
