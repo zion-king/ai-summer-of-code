@@ -43,6 +43,7 @@ Implement custom logging in your codebase replicating what we covered in Week 3 
 - Project Demo Video (Optional)
 - Streamlit or Frontend App
 
+Sumbit Project [here](https://github.com/zion-king/ai-summer-of-code/issues/new?assignees=&labels=&projects=&template=project.yml&title=Project%3A+%3Cshort+description%3E)
 
 # Project 2: TBA
 
