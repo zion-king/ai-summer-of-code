@@ -20,19 +20,25 @@ Your app should utilise the following 5 models or 7 only if you have an OpenAI A
     - `gpt-4o`
     - `gpt-4o-mini`
 
-For Vertex and AnthropicVertex models, refer to the tutorial on how to enable the models, create Vertex AI credentials on GCP and use the credentials to instantiate the Vertex API service for accessing these models. For covenience and modularity, you can create a `models.py` script in your codebase and define a class with methods implemented for each of the models.
+For Vertex and AnthropicVertex models, refer to the tutorial on how to enable the models, create Vertex API credentials on GCP and use the credentials to instantiate the Vertex API service for accessing these models. For covenience and modularity, you can create a `models.py` script in your codebase and define a class with methods implemented for each of the models.
 
 
 ### Model Runs
 Two options - you can experiment with both and decide which version you want to submit.
 - Dropdown for user selection of models at request level (one model run at a time)
-- Dropdown for user selection of models at response level (all models return response in parallel, and a user can switch to see each response). We will particularly like to see how you go about multithreading or parallel execution in this step.
+- Dropdown for user selection of models at response level (all models return response in parallel, and a user can switch to see each response). 
+
+We will particularly like to see how you go about multithreading or parallel execution if you try the second option.
 
 ### Chat History
-Implement conversation history using either of LlamaIndex's or Langchain's memory buffer implementation. You can implement in-session storage for your chat history using these implementations and ensure to reset chat history when necessary. Remember, this project is not intended to be a production-grade application, so you shouldn't worry about having different users chatting in different sessions.
+Implement conversation history using either of LlamaIndex's or Langchain's memory buffer implementation. You can implement in-session storage for your chat history using these implementations and ensure to reset chat history when necessary. 
+
+Remember, this project is not intended to be a production-grade application, so you shouldn't worry about having different users chatting in different sessions.
 
 ### Logging & Exception Handling
-Ensure you catch and manage exceptions effectively. Implement logging in your codebase replicating what we covered in Week 3 Day 1 and feel free to make your own logging customizations. **Please don't push your log files to the project repo. Add a .gitignore in your codebase to untrack your .log files.**
+Ensure you catch and manage exceptions effectively. Implement logging in your codebase replicating what we covered in Week 3 Day 1 and feel free to make your own logging customizations. 
+
+**Please don't push your log files to the project repo.** Add a `.gitignore` in your codebase to untrack your `.log` files.
 
 
 ## 3. Experimentation & Evaluation
@@ -45,7 +51,7 @@ Experiment with different *k* values to determine the optimal _k_ value for your
 ### Evaluation
 Evaluate different components of your application using both manual and tool-based evaluation. For retrieval and model performance, evaluate things like retrieval acccuracy, generation accuracy, etc. Use this to understand which models work well for specific tasks and which ones work well across board. This part is very open-ended so we welcome your creativity, but also don't ovrthink it.
 
-**Implement logging for your evaluation:** Create custom logging for evaluation in your `operationshandler` script and add a file named `evals.log` to log all your evaluation results. **This part is crucial as you will be submitting your **evals.log** file along with your project for review.**
+**Implement logging for your evaluation:** Create custom logging for evaluation in your `operationshandler` script and add a file named `evals.log` to log all your evaluation results. This part is crucial as **you will be submitting your `evals.log` file** along with your project for review.
 
 
 ## 4. Deployment
@@ -59,7 +65,7 @@ Deploy your streamlit application to Streamlit cloud to expose your application 
 ## 5. Submission
 
 ### Documentation
-- Decsribe your use case in a `readme.md` file at the root of your project repository.
+- Describe your use case in a `readme.md` file at the root of your project repository.
 - Provide a description of the tech stack you have used for your project, and how your solution can be improved or any future work.
 - Provide a brief technical walkthrough of your codebase/application and how other developers can run your code locally to reproduce your results.
 - Optionally, add the URL of your deployed streamlit application to the `About` section of your project repository.
@@ -73,7 +79,7 @@ Deploy your streamlit application to Streamlit cloud to expose your application 
 - Streamlit or Frontend App
 
 ### Submission Deadline
-The submission deadline is **August 31st**. If you submit later than this date, we may not be able to review early and provide feedback. Remember, there's still going to be a second project which is the Capstone.
+The submission deadline is **August 31st**. If you submit later than this date, we may not be able to review early and provide feedback. Remember, there's still going to be a final project which is the Capstone.
 
 When you are ready, [submit your project here](https://github.com/zion-king/ai-summer-of-code/issues/new?assignees=&labels=&projects=&template=project.yml&title=Project%3A+%3Cshort+description%3E)
 
