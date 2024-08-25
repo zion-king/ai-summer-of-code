@@ -23,10 +23,24 @@ body:
       description: URL of the GitHub repo with your project
     validations:
       required: true
+  - type: textarea
+    id: logfile
+    attributes:
+      label: Evals Log File
+      description: Drag and drop your evals log file below or use the clip icon to upload the file from your computer.
+    validations:
+      required: true
+  - type: input
+    id: app
+    attributes:
+      label: Streamlit App URL
+      description: URL to the application deployed on Streamlit.
+    validations:
+      required: true
   - type: input
     id: video
     attributes:
-      label: Project video
+      label: Project Video (optional)
       description: Provide a short demo video of your project. Video should be 5-6mins at most.
     validations:
-      required: true
+      required: false
