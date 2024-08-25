@@ -22,7 +22,6 @@ Your app should utilise the following 5 models or 7 only if you have an OpenAI A
 
 For Vertex and AnthropicVertex models, refer to the tutorial on how to enable the models, create Vertex AI credentials on GCP and use the credentials to instantiate the Vertex API service for accessing these models. For covenience and modularity, you can create a `models.py` script in your codebase and define a class with methods implemented for each of the models.
 
-**Please don't push your credentials file to the project repo. Add a .gitignore in your codebase to untrack your .log files.**
 
 ### Model Runs
 Two options - you can experiment with both and decide which version you want to submit.
@@ -53,7 +52,7 @@ Evaluate different components of your application using both manual and tool-bas
 Deploy your streamlit application to Streamlit cloud to expose your application via HTTPs so you can share with others. To do this, you will need to follow these steps:
 
 - Create a github repository specifically for your project or application
-- Navigate to (Streamlit Community Cloud)[https://streamlit.io/cloud], click the `New app` button, and choose the appropriate repository, branch, and application file.
+- Navigate to [Streamlit Community Cloud](https://streamlit.io/cloud), click the `New app` button, and choose the appropriate repository, branch, and application file.
 - Finally, hit the `Deploy` button. Your app will be live in seconds!
 
 
