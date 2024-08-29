@@ -1,3 +1,6 @@
 *.pptx
 credentials.py
 *.log
+*.json
+data*/
+__pycache__/
