@@ -1,0 +1,7 @@
+llama-index-core
+llama-index-readers-file
+llama-index-embeddings-huggingface==0.2.3
+llama-index-llms-groq
+llama-index-llms-vertex
+llama-index-llms-anthropic
+llama-index-vector-stores-chroma
