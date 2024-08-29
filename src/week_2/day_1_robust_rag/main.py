@@ -46,9 +46,36 @@ Settings.embed_model = HuggingFaceEmbedding(
 
 def upload_doc(dir):
 
+    from llama_index.core.node_parser import TokenTextSplitter
+
     print("Uploading...")
     documents = SimpleDirectoryReader(dir).load_data() 
+
+    """You can apply splitting with global Settings"""
+    Settings.text_splitter = TokenTextSplitter(chunk_size=1024, chunk_overlap=20) # 1024 is default chunk_size
     index = VectorStoreIndex.from_documents(documents)
+
+    """
+    Or you can apply splitting at index level
+    
+        text_splitter = TokenTextSplitter(chunk_size=1024, chunk_overlap=20)
+        index = VectorStoreIndex.from_documents(
+            documents,
+            transformations=[text_splitter] # you can add any other transformation to this list
+        )
+
+    Other splitters you can play around with for different use cases, and lots more!
+        "SentenceSplitter",
+        "CodeSplitter",
+        "HTMLNodeParser",
+        "MarkdownNodeParser",
+        "JSONNodeParser",
+        "SentenceWindowNodeParser",
+        "SemanticSplitterNodeParser",
+        "NodeParser",
+        "MetadataAwareTextSplitter",
+        "UnstructuredElementNodeParser",
+    """
 
     return index
 
