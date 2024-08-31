@@ -109,22 +109,22 @@
 
   🕧 **18:00 - 19:00 WAT:** AI - Past, Present and Future II - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Expert Talk`
 
-  🕖 **19:00 - 21:00 WAT:** Mathematical Foundations of AI - [Ridwan Amure](https://www.linkedin.com/in/ridwan-amure) `Live`
+  🕖 **19:00 - 20:30 WAT:** Mathematical Foundations of AI - [Ridwan Amure](https://www.linkedin.com/in/ridwan-amure) `Live`
 
   
-  - **Monday - Friday Sept 6**  (respectively)
+- **Monday - Friday Sept 6**  (respectively)
 
   🕖 **19:00 - 21:00 WAT:** Neural Networks from Scratch  - [Ridwan Amure](https://www.linkedin.com/in/ridwan-amure) `Live Workshop`
   
-  🕖 **19:00 - 21:00 WAT:** Attention Mechanism Hands-On - [Ridwan Amure](https://www.linkedin.com/in/ridwan-amure) `Live Workshop`
+  🕗 **20:00 - 22:00 WAT:** Attention Mechanism Hands-On - [Ridwan Amure](https://www.linkedin.com/in/ridwan-amure) `Live Workshop`
 
-  🕗 **20:00 - 21:00 WAT:** AI Engineering III: Taking LLMs to Production - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Live Workshop`
+  🕗 **20:00 - 21:00 WAT:** AI Engineering III - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Live Workshop`
   
-  🕗 **20:00 - 21:00 WAT:** AI Engineering IV: Deploying LLM Applications On-Prem - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Live Workshop`
+  🕗 **20:00 - 21:00 WAT:** AI Engineering IV - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Live Workshop`
 
   <!-- 🕗 **20:00 - 21:00 WAT:** AI Engineering: Solving Latency Bottlenecks - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Live Workshop` -->
   
-  🕖 **19:00 - 21:00 WAT:** LLMOps: Managing the AI Lifecycle `Live Workshop` - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Live Workshop`
+  🕖 **19:00 - 21:00 WAT:** LLMOps: Managing the AI Lifecycle - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Live Workshop`
 
 
 <!-- - **Other Sessions (schedule not finalised)**
