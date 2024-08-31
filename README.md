@@ -2,7 +2,7 @@
 
 4 weeks of hands-on technical training in Large Language Models and Generative AI engineering. Features hands-on tutorials, workshops and expert talks from experienced AI practitioners locally and globally.
 
-**Timeline:** August 10-31, 2024
+**Timeline:** August 10 - September 6, 2024
 
 <p align="left">
   <br>

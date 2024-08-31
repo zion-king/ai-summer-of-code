@@ -49,7 +49,7 @@ Experiment with different system prompts until you find a robust prompt that wor
 Experiment with different *k* values to determine the optimal _k_ value for your use case and for different document sizes (small, medium and large). 
 
 ### Evaluation
-Evaluate different components of your application using both manual and tool-based evaluation. For retrieval and model performance, evaluate things like retrieval acccuracy, generation accuracy, etc. Use this to understand which models work well for specific tasks and which ones work well across board. This part is very open-ended so we welcome your creativity, but also don't ovrthink it.
+Evaluate different components of your application using both manual and tool-based evaluation. For retrieval and model performance, evaluate things like retrieval acccuracy, generation accuracy, etc. Use this to understand which models work well for specific tasks and which ones work well across board. This part is very open-ended so we welcome your creativity, but also don't overthink it.
 
 **Implement logging for your evaluation:** Create custom logging for evaluation in your `operationshandler` script and add a file named `evals.log` to log all your evaluation results. This part is crucial as **you will be submitting your `evals.log` file** along with your project for review.
 
@@ -79,7 +79,7 @@ Deploy your streamlit application to Streamlit cloud to expose your application 
 - Streamlit or Frontend App
 
 ### Submission Deadline
-The submission deadline is **August 31st**. If you submit later than this date, we may not be able to review early and provide feedback. Remember, there's still going to be a final project which is the Capstone.
+The submission deadline is **Friay, September 6, 2024**. If you submit later than this date, we may not be able to review early and provide feedback. Remember, there's still going to be a final project which is the Capstone.
 
 When you are ready, [submit your project here](https://github.com/zion-king/ai-summer-of-code/issues/new?assignees=&labels=&projects=&template=project.yml&title=Project%3A+%3Cshort+description%3E)
 
