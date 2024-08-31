@@ -15,7 +15,7 @@
   🕐 **13:00 - 14:00 WAT:** Practical Introduction to Retrieval Augmented Generation - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Workshop (Physical, Recorded)`
     
 - **Sunday, Aug 11**
-  
+ 
   🕧 **18:00 - 19:00 WAT:** Buzzwords in LLMs - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Live Lecture`
   
   🕖 **19:00 - 20:00 WAT:** LLM Evaluation for RAG Pipelines - [Richmond Alake](https://www.linkedin.com/in/richmondalake) `Live Workshop`
@@ -39,13 +39,15 @@
 
   🕕 **12:00 - 13:00 WAT:** LLMs in Competition: Understanding Benchmarking - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Expert Talk`
 
-  🕐 **13:00 - 14:00 WAT:** Turning LLMs into Agentic Systems - [David Okpare](https://www.linkedin.com/in/david-okpare) `Workshop (Physical, Recorded)`
+  🕜 **13:00 - 14:00 WAT:** Turning LLMs into Agentic Systems - [David Okpare](https://www.linkedin.com/in/david-okpare) `Live Workshop (Physical + Online)`
 
 - **Sunday, Aug 18**
   
-  🕖 **19:00 - 19:45 WAT:** LLMs and Other Modalities - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Expert Talk`
+  🕖 **18:00 - 18:30 WAT:** LLMs and Other Modalities - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Expert Talk`
+
+  🕖 **18:30 - 19:30 WAT:** Implementing Conersational Web Search Systems - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Expert Talk`
   
-  🕗 **19:45 - 20:30 WAT:** Commercial LLMs or Open LLMs? Selecting the Right LLM for Your Use Case - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Expert Talk`
+  🕗 **19:30 - 20:00 WAT:** Commercial LLMs or Open LLMs? Selecting the Right LLM for Your Use Case - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Expert Talk`
 
 - **Tuesday - Friday Aug 23** (respectively)
   
