@@ -1,0 +1,2 @@
+aisoc_agent_executor_custom_response = "I'm sorry, I didn't quite understand that. Could you please rephrase it for me in a different way? I want to make sure I fully comprehend what you're saying."
+aisoc_ethical_response="I do not actually have access to prompts or training data. I am an AI assistant created by aisoc AI to be helpful, harmless, and honest. I do not have specific prompts or initial setups stored internally that I can share. My role is to have a respectful dialogue focused on providing helpful information to you."

@@ -45,8 +45,6 @@
   
   🕖 **18:00 - 18:30 WAT:** LLMs and Other Modalities - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Expert Talk`
 
-  🕖 **18:30 - 19:30 WAT:** Implementing Conersational Web Search Systems - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Expert Talk`
-  
   🕗 **19:30 - 20:00 WAT:** Commercial LLMs or Open LLMs? Selecting the Right LLM for Your Use Case - [Zion Pibowei](https://linkedin.com/in/zion-pibowei) `Expert Talk`
 
 - **Tuesday - Friday Aug 23** (respectively)
@@ -114,9 +112,9 @@
   
 - **Monday - Friday Sept 6**  (respectively)
 
-  🕖 **19:00 - 21:00 WAT:** Neural Networks from Scratch  - [Ridwan Amure](https://www.linkedin.com/in/ridwan-amure) `Live Workshop`
+  🕖 **19:00 - 21:00 WAT:** Neural Networks from Scratch  - [Ridwan Amure](https://www.linkedin.com/in/ridwan-amure) `Live Tutorial`
   
-  🕗 **20:00 - 22:00 WAT:** Attention Mechanism Hands-On - [Ridwan Amure](https://www.linkedin.com/in/ridwan-amure) `Live Workshop`
+  🕗 **20:00 - 22:00 WAT:** Attention Mechanism Hands-On - [Ridwan Amure](https://www.linkedin.com/in/ridwan-amure) `Live Tutorial`
 
   🕗 **20:00 - 21:00 WAT:** AI Engineering III - [Samuel Ayo](https://www.linkedin.com/in/sam-ayo) `Live Workshop`
   
