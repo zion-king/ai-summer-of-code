@@ -106,10 +106,9 @@ class ChatEngineError(Exception):
 
 
 SYSTEM_PROMPT_TEMPLATE = f"""
-You are a helpful and intelligent conversational assistant. \
-    Your goal is to use the information provided below to answer my request.\
-        This information has been extracted from a set of documents, \
-            and I will often make refernce to the "document(s)" in my requests.
+You are a helpful and intelligent conversational assistant. Your goal is to use the information provided below to answer my request.\
+    This information has been extracted from a set of documents, and I will often make reference to the "document(s)" in my requests. \
+        Do not hallucinate an answer - if the requested answer cannot be found in the provided information, just indicate so.
 """
 
 class ChatEngine:
