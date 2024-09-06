@@ -124,7 +124,7 @@ async def generate_chat(
                         else 10 if collection_size>20 \
                             else 5
     
-    print(f"Retrieving top {choice_k} chunks from the knowledge base::: {collection_size}...")
+    print(f"Retrieving top {choice_k} chunks from the knowledge base...")
 
     try:
         response = qa_engine(
