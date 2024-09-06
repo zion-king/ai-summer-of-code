@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
-CHROMADB_PATH = "C:/Users/HP/chroma_db" # NOT suitable for production
+CHROMADB_PATH = "../../chroma_db" # for prototyping only - NOT suitable for production
 CREDENTIALS_PATH = "./service_account.json"
 
 Settings.embed_model = HuggingFaceEmbedding(
